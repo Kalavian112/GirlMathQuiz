@@ -68,8 +68,9 @@ body {
 	text-align: center;
 	padding: 0;
 }
-#quiz-disclaimer {
+.quiz-start {
 	font-size: 20px;
+	width: 90%;
 	margin: 20px auto;
 	text-align: center;
 	padding: 0;

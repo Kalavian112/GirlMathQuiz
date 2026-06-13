@@ -26,7 +26,7 @@ const questionData = Object.freeze([
 		correct: 0
 	},
 	{
-		title: 'Emmy bought a $120 dress on sale for $100. How much did she spend?',
+		title: 'Hailey bought a $120 dress on sale for $100. How much did she spend?',
 		answers: ['$20','$100','She made $20','She made $100'],
 		correct: 2
 	},
@@ -56,15 +56,10 @@ const questionData = Object.freeze([
 		correct: 2
 	},
 	{
-		title: 'Jariyana has a job that pays every two weeks. She takes out a $4,000 loan to pay for a luxury dress. How much did it cost?',
+		title: 'Kendall has a job that pays every two weeks. She takes out a $4,000 loan to pay for a luxury dress. How much did it cost?',
 		answers: ['$4,000 that she will have to pay back','$0','$2,000','$4,000, but the debt doesn\'t matter because she is being paid.'],
 		correct: 3
 	},
-	/*{
-		title: 'Zoe is a transgender girl. She spends $1,720 on makeup to make her feel more feminine and reduce dysphoria. How much was the makeup?',
-		answers: ['$0 as femininity is priceless','$0 because she used credit.','$960','$1,720'],
-		correct: 0
-	},*/
 	{
 		title: 'Izzy buys a concert ticket for $200. The artist plays 20 songs. How much was the ticket?',
 		answers: ['$0','$10','$20','$200'],
@@ -76,7 +71,7 @@ const questionData = Object.freeze([
 		correct: 2
 	},
 	{
-		title: 'Julie buys a skirt for $40. She wears it 20 times. How much was the skirt?',
+		title: 'Jenessa buys a skirt for $40. She wears it 20 times. How much was the skirt?',
 		answers: ['$0','$2','$4','$40'],
 		correct: 0
 	},
